@@ -2,10 +2,10 @@
 
 
 - 🔭 On the look out for interesting things.
--🌱 I’m currently learning JavaScript.
--💬 Ask me about ...
--📫 Write to me on: tejaswigurram27@gmail.com
-    Connect with me on: https://www.linkedin.com/in/tejaswinigurram/
+- 🌱 I’m currently learning JavaScript.
+- 💬 Ask me about ...
+- 📫 Write to me on: tejaswigurram27@gmail.com
+-    Connect with me on: https://www.linkedin.com/in/tejaswinigurram/
     
     
     
